@@ -1,0 +1,2 @@
+Install pyspark with pip install pyspark and pip install pyspark[pandas_on_spark]
+Make sure a Java version is installed (e.g., sudo apt install openjdk-19-jdk)
